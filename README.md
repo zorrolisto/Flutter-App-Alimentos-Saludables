@@ -1,16 +1,20 @@
-# flutter_app3
+# App de Alimentos Saludables
 
-A new Flutter application.
+Esta app en flutter está hecha para ver alimentos saludables y su preparación.
 
-## Getting Started
+> Note: `Para ver la funcionalidad completa se necesita el Algoritmo genetico viewer` es necesario correrlo despues.
+<https://gitlab.com/julio_cabanillas/algoritmo_genetico_viewer>
 
-This project is a starting point for a Flutter application.
+## Features
+- Se listan comidas saludables
+- Se puede ver la preparación de la comida
 
-A few resources to get you started if this is your first Flutter project:
+## Stack
+- Dart
+- Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## License
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MIT
+
+**Free Software, Hell Yeah!**
